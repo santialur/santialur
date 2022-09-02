@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santialur
-- 👀 I’m interested in Technology, Music, and Product and People Management, amongst other things.
+- 👀 I’m interested in Technology, Music, Product and People Management, and in Fitness, amongst other things.
 - 🌱 I’m currently learning Advanced NodeJS, System Design and Cooking
 - 💞️ I’m looking to collaborate on open source projects that focus on improving people's lives
 - 📫 How to reach me: through e-mail at santiago.alurralde@gmail.com, or twitter at @santialur.
