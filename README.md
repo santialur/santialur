@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @santialur
-- 👀 I’m interested in Technology, Music, Product and People Management, and in Fitness, amongst other things.
-- 🌱 I’m currently learning Advanced NodeJS, System Design and Cooking
-- 💞️ I’m looking to collaborate on open source projects that focus on improving people's lives
+- 👋 Hi, I’m Santiago
+- 💡 I’m interested in: Technology, Music, Product and People Management, Fitness, Books.
+- 📖 I’m currently learning Advanced NodeJS, System Design and Cooking
+- 🔦 I’m looking to collaborate on open source projects that focus on improving people's lives
 - 📫 How to reach me: through e-mail at santiago.alurralde@gmail.com
 
 <!---
